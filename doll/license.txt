@@ -1,0 +1,11 @@
+Model Information:
+* title:	a creepy doll
+* source:	https://sketchfab.com/3d-models/a-creepy-doll-d8933af0296a4d348a36cc9a5ca631c0
+* author:	poojadevi19871987 (https://sketchfab.com/poojadevi19871987)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "a creepy doll" (https://sketchfab.com/3d-models/a-creepy-doll-d8933af0296a4d348a36cc9a5ca631c0) by poojadevi19871987 (https://sketchfab.com/poojadevi19871987) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
